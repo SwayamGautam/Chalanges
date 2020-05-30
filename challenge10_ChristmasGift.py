@@ -1,0 +1,5 @@
+gift_1 = input("Gift1 >>")
+gift_2 = input("Gift2 >>")
+gift_3 = input("Gift3 >>")
+gift_total = (gift_1 + ' ' +gift_2+ ' ' +gift_3 )
+print(gift_total)
